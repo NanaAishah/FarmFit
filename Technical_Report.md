@@ -48,7 +48,8 @@ We experimented with multiple machine learning models:
 ### **2. Hosting**  
 - Deployed on **Streamlit Cloud**  
 - Requirements managed via `requirements.txt`  
-- Model serialized using `joblib`  
+- Model serialized using `joblib`
+- https://farmfit-crop-recommendation.streamlit.app/
 
 ---
 
@@ -68,5 +69,7 @@ We experimented with multiple machine learning models:
 ---
 
 ## 🙌 Contributors  
-- Abubakar Nana Aishah (@YourGitHubUsername)  
+- Abubakar Nana Aishah (@NanaAishah)
+- Rosheedat Dasola Busari (@RosheedatDasola)
+- Abubakar Khadeejah (@newsuccesskdj) 
 
