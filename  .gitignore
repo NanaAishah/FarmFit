@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Streamlit internal
+.streamlit/
+
+# Logs and temp data
+*.log
+data/      # runtime logs folder (will be created automatically)
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
