@@ -71,5 +71,5 @@ We experimented with multiple machine learning models:
 ## 🙌 Contributors  
 - Abubakar Nana Aishah (@NanaAishah)
 - Rosheedat Dasola Busari (@RosheedatDasola)
-- Abubakar Khadeejah (@newsuccesskdj) 
+- Abubakar Khadejat (@Khadijat-Abubakar) 
 
