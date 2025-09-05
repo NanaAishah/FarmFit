@@ -68,4 +68,6 @@ We experimented with multiple machine learning models:
 ---
 
 ## 🙌 Contributors  
-- Abubakar Nana Aishah (@YourGitHubUsername)  
+- Abubakar Nana Aishah (@NanaAishah)
+- Rosheedat Dasola Busari (@RosheedatDasola)
+- Khadijat Abubakar (Khadijat-Abubakar) 
